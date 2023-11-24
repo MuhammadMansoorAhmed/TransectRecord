@@ -1,0 +1,17 @@
+{
+    "name": "muham/transact-record",
+    "description": "PHP Application for expense tracking",
+    "type": "project",
+    "authors": [
+        {
+            "name": "MuhammadMansoorAhmed"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
